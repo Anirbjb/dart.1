@@ -1,0 +1,8 @@
+void main(){
+  int data=0; 
+  do{
+    print(data);
+    data++;
+    break;
+  }while(data<11);
+ }
