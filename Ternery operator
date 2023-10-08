@@ -1,0 +1,6 @@
+void main() {
+ var nilai = 75;
+  
+   nilai >=75 && nilai<=75? print('anda lulus') :print('anda tidak lulus');
+  
+}
